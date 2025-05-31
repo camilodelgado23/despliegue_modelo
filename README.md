@@ -14,10 +14,10 @@ Este proyecto implementa una API con [FastAPI](https://fastapi.tiangolo.com/) pa
 
 despliegue_modelo/
 │
-├── best.pt # Modelo YOLOv8 entrenado
-├── main.py # Código de la API FastAPI
-├── requirements.txt # Dependencias
-└── .render.yaml # Configuración para despliegue en Render 
+ -  best.pt # Modelo YOLOv8 entrenado
+ -  main.py # Código de la API FastAPI
+ -  requirements.txt # Dependencias
+ - .render.yaml # Configuración para despliegue en Render 
 
 ## 🌐 Despliegue en Render
 Sube tu repositorio a GitHub.
